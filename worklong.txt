@@ -1,0 +1,22 @@
+Work log FINAL PROJECT
+
+Thursday 28/2022 9:45 AM
+-completed get_image_dir_path function
+-completed get_apod_date function
+
+
+Thursday 28/2022 10:45AM
+-completed get_image_path function
+-completed get_apod_info function
+-completed print_apod_info
+
+Thursday 28/2022 3:00PM
+- completed download_apod_image function
+- completed save_image_file function
+- completed create_image_db function
+
+Thursday 28/2022 6:30pm
+-completed create_image_db function
+-completed add_image_to_db function
+-completed image_already_in_db function
+-completed set_desktop_background_image function
